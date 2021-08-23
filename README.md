@@ -19,7 +19,21 @@
 
 ***************
 ## Resutls
-### MNIST
+#### Final epoch
+<table align='center'>
+<tr align='center'>
+<td> MNIST GAN (epoch:50)</td>
+<td> MNIST DCGAN (50)</td>
+<td> CIFAR10 DCGAN (100)</td>
+</tr>
+<tr>
+<td><img src = './result/mnist_gan/mnist_GAN_result_fixed_050.png'>
+<td><img src = './result/mnist_dcgan/mnist_DCGAN_result_fixed_050.png'>
+<td><img src = './result/cifar_dcgan/cifar_DCGAN_result_fixed_100.png'>
+</tr>
+</table>
+
+#### MNIST
 <table align='center'>
 <tr align='center'>
 <td> GAN</td>
@@ -31,7 +45,7 @@
 </tr>
 </table>
 
-### CIFAR10
+#### CIFAR10
 <table align='center'>
 <tr align='center'>
 <td> DCGAN</td>
@@ -40,3 +54,4 @@
 <td><img src = 'cifar_dcgan.gif'>
 </tr>
 </table>
+
