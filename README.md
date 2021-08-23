@@ -1,4 +1,4 @@
-# GAN_tutorial with PyTorch
+# GAN tutorial with PyTorch
 ### MNIST & CIFAR10 데이터 셋을 이용한 GAN/DCGAN의 구현
 ### paper
 [[Generative Adversarial Nets]](https://arxiv.org/pdf/1406.2661.pdf)  
