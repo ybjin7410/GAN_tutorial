@@ -3,7 +3,7 @@
 ### paper
 [[Generative Adversarial Nets]](https://arxiv.org/pdf/1406.2661.pdf)  
 ***************
-### 파일 설명
+## Description
 
 * model: 학습된 Generator, Discriminator가 저장됨.  
 * result: 각 데이터 셋/ 모델 구조에 따른 이미지 생성 결과가 저장됨.  
@@ -13,10 +13,29 @@
 	- [x] MNIST_DCGAN.ipynb: MNIST를 이용한 DCGAN 학습
 	- [x] CIFAR10_DCGAN.ipynb: CIFAR10을 이용한 DCGAN 학습
 ***************
-### 모델 구조
+## Model architecture
+* GAN
+![GAN_architecture](https://user-images.githubusercontent.com/52904626/130410234-fed5d825-59f9-400d-ae0b-bc656eeea630.png)
 
 ***************
-### 결과 
-![cifar_dcgan](https://user-images.githubusercontent.com/52904626/130407845-2eec5000-58ac-400f-b7fc-6f2a2e4cb18b.gif)
-![mnist_dcgan](https://user-images.githubusercontent.com/52904626/130408084-3c27dd04-efef-44a7-9d79-d6c1da120813.gif)
-![mnist_gan](https://user-images.githubusercontent.com/52904626/130408102-95c1eb2f-6fdd-4566-ba81-50d44d35a28c.gif)
+## Resutls
+### MNIST
+<table align='center'>
+<tr align='center'>
+<td> GAN</td>
+<td> DCGAN</td>
+</tr>
+<tr>
+<td><img src = 'mnist_gan.gif'>
+<td><img src = 'mnist_dcgan.gif'>
+</tr>
+</table>
+### MNIST
+<table align='center'>
+<tr align='center'>
+<td> DCGAN</td>
+</tr>
+<tr>
+<td><img src = 'cifar_dcgan.gif'>
+</tr>
+</table>
