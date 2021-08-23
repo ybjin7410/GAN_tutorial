@@ -18,7 +18,7 @@
 ![GAN_architecture](https://user-images.githubusercontent.com/52904626/130410896-3f256ded-414f-478a-bf5e-6d17c721b99e.PNG)
 
 * DCGAN
-![DCGAN_architecture](https://user-images.githubusercontent.com/52904626/130435273-288ac7f6-1a0c-40b3-b0b3-3c0a0aaa4d8f.PNG)
+![dcgan](https://user-images.githubusercontent.com/52904626/130435718-fafbd980-325b-4a37-9ea8-5590908dfb09.PNG)
 
 ***************
 ## Resutls
