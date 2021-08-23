@@ -15,7 +15,7 @@
 ***************
 ## Model architecture
 * GAN
-![GAN_architecture](https://user-images.githubusercontent.com/52904626/130410234-fed5d825-59f9-400d-ae0b-bc656eeea630.png)
+![GAN_architecture](https://user-images.githubusercontent.com/52904626/130410896-3f256ded-414f-478a-bf5e-6d17c721b99e.PNG)
 
 ***************
 ## Resutls
@@ -30,7 +30,8 @@
 <td><img src = 'mnist_dcgan.gif'>
 </tr>
 </table>
-### MNIST
+
+### CIFAR10
 <table align='center'>
 <tr align='center'>
 <td> DCGAN</td>
